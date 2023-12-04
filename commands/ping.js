@@ -24,5 +24,4 @@ module.exports = {
     description: 'Muestra el ping del bot',
     testOnly: false,
     ownerOnly: false,
-    maxArgs: 0,
 }
