@@ -28,7 +28,7 @@ client.on('ready', () => {
       dir: path.join(__dirname, 'events'),
     },
     mongoUri: process.env.MONGO_URI,
-    testServers: ['691808360277737502'],
+    testServers: ['817777505880375306'],
     botOwners: ['740004290063630357'],
     cooldownConfig: {
       errorMessage: `${emote.timer} Debes esperar todavía {TIME}`,
