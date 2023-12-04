@@ -10,7 +10,7 @@ const client = new Client({
 });
 
 client.once('ready', () => {
-  console.log(`Bot is online as ${client.user.tag}`);
+  console.log(`El bot se ha iniciado como ${client.user.tag}`);
 });
 
 client.login(process.env.TOKEN);
