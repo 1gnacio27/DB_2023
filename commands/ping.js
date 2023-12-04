@@ -22,7 +22,7 @@ module.exports = {
 
     type: CommandType.SLASH,
     description: 'Muestra el ping del bot',
-    testOnly: true,
+    testOnly: false,
     ownerOnly: false,
     maxArgs: 0,
 }
